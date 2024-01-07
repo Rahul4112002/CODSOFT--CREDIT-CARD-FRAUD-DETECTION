@@ -1,7 +1,3 @@
-Certainly! Below is an example of how you might structure a GitHub README file for your credit card transaction fraud detection project using Random Forest in Python Flask. This README is meant to provide an overview, instructions, and details about your project.
-
----
-
 # Credit Card Transaction Fraud Detection using Machine Learning (Random Forest)
 
 
